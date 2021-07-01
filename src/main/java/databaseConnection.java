@@ -26,8 +26,8 @@ public class databaseConnection {
 		while(rs.next())
 			
 		{	
-	//	System.out.println(rs.getString("LAST_NAME"));
-	//	System.out.println(rs.getString("EXAM_SCORE"));
+		System.out.println(rs.getString("LAST_NAME"));
+		System.out.println(rs.getString("EXAM_SCORE"));
 		
 
 		
