@@ -30,7 +30,7 @@ public class databaseConnection {
 		System.out.println(rs.getString("EXAM_SCORE"));
 		
 
-		
+		// go to new branch at github
 	
 		System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
